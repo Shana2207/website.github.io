@@ -78,7 +78,7 @@
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;Configuration&lt;/a&gt;
     &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#sample-posts&quot;&gt;Sample Posts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sample-posts&quot;&gt;Servicios&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#site-variables&quot;&gt;Site Variables&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#adding-menu-pages&quot;&gt;Adding Menu Pages&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#posts&quot;&gt;Posts&lt;/a&gt;&lt;/li&gt;
@@ -160,9 +160,9 @@
 
 &lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
 
-&lt;h3 id=&quot;sample-posts&quot;&gt;Sample Posts&lt;/h3&gt;
+&lt;h3 id=&quot;sample-posts&quot;&gt;Servicios&lt;/h3&gt;
 
-&lt;p&gt;Visit the &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;the demo site&lt;/a&gt; to find sample posts that show what different types of text formatting look like. You can find these posts in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, which show what the best practices for setting up your own site are.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;the demo site&lt;/a&gt; to find servicios that show what different types of text formatting look like. You can find these posts in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, which show what the best practices for setting up your own site are.&lt;/p&gt;
 
 &lt;h3 id=&quot;site-variables&quot;&gt;Site Variables&lt;/h3&gt;
 
