@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-05T20:19:30-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Millennial</title><subtitle>a Jekyll theme for running a blog or publication</subtitle><author><name>Paul Le</name></author><entry><title type="html">Welcome to Millennial!</title><link href="http://localhost:4000/documentation/welcome-to-millennial.html" rel="alternate" type="text/html" title="Welcome to Millennial!" /><published>2017-01-01T00:00:00-05:00</published><updated>2017-01-01T00:00:00-05:00</updated><id>http://localhost:4000/documentation/welcome-to-millennial</id><content type="html" xml:base="http://localhost:4000/documentation/welcome-to-millennial.html">&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-05T21:09:18-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Millennial</title><subtitle>a Jekyll theme for running a blog or publication</subtitle><author><name>Paul Le</name></author><entry><title type="html">Welcome to Millennial!</title><link href="http://localhost:4000/documentation/welcome-to-millennial.html" rel="alternate" type="text/html" title="Welcome to Millennial!" /><published>2017-01-01T00:00:00-05:00</published><updated>2017-01-01T00:00:00-05:00</updated><id>http://localhost:4000/documentation/welcome-to-millennial</id><content type="html" xml:base="http://localhost:4000/documentation/welcome-to-millennial.html">&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
 
 &lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
 
@@ -78,7 +78,7 @@
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;Configuration&lt;/a&gt;
     &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#sample-posts&quot;&gt;Servicios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sample-posts&quot;&gt;Sample Posts&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#site-variables&quot;&gt;Site Variables&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#adding-menu-pages&quot;&gt;Adding Menu Pages&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#posts&quot;&gt;Posts&lt;/a&gt;&lt;/li&gt;
@@ -160,9 +160,9 @@
 
 &lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
 
-&lt;h3 id=&quot;sample-posts&quot;&gt;Servicios&lt;/h3&gt;
+&lt;h3 id=&quot;sample-posts&quot;&gt;Sample Posts&lt;/h3&gt;
 
-&lt;p&gt;Visit the &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;the demo site&lt;/a&gt; to find servicios that show what different types of text formatting look like. You can find these posts in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, which show what the best practices for setting up your own site are.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&quot;https://lenpaul.github.io/Millennial/&quot;&gt;the demo site&lt;/a&gt; to find sample posts that show what different types of text formatting look like. You can find these posts in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, which show what the best practices for setting up your own site are.&lt;/p&gt;
 
 &lt;h3 id=&quot;site-variables&quot;&gt;Site Variables&lt;/h3&gt;
 

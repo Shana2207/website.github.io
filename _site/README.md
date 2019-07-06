@@ -29,7 +29,7 @@ Millennial is a minimalist Jekyll theme for running a simple, clean, content-foc
    3. [Directory Structure](#directory-structure)
    4. [Starting From Scratch](#starting-from-scratch)
 3. [Configuration](#configuration)
-   1. [Servicios](#servicios)
+   1. [Sample Posts](#sample-posts)
    2. [Site Variables](#site-variables)
    3. [Adding Menu Pages](#adding-menu-pages)
    4. [Posts](#posts)
@@ -106,9 +106,9 @@ To completely start from scratch, simply delete all the files in the `_posts`, `
 
 ## Configuration
 
-### Servicios
+### Sample Posts
 
-Visit the [the demo site](https://lenpaul.github.io/Millennial/) to find servicios that show what different types of text formatting look like. You can find these posts in the `_posts` folder, which show what the best practices for setting up your own site are.
+Visit the [the demo site](https://lenpaul.github.io/Millennial/) to find sample posts that show what different types of text formatting look like. You can find these posts in the `_posts` folder, which show what the best practices for setting up your own site are.
 
 ### Site Variables
 
