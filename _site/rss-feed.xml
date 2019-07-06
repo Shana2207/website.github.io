@@ -2,25 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>devHouse</title>
-		<description>a Jekyll theme for running a blog or publication</description>
+		<description>holaaaaaaaa</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
-
-			<item>
-				<title>Welcome to Millennial!</title>
-
-					<dc:creator>Paul Le</dc:creator>
-
-
-					<description>&lt;p&gt;Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-
-				<pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/juegos/welcome-to-millennial.html</link>
-				<guid isPermaLink="true">http://localhost:4000/juegos/welcome-to-millennial.html</guid>
-			</item>
-
-
+		
 	</channel>
 </rss>
