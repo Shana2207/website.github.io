@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carta
+title: Nuestra Carta
 ---
 {% for post in site.categories.carta %}
   <a href="{{ site.github.url }}{{ post.url }}">
