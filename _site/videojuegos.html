@@ -62,7 +62,6 @@
 
 
 <body>
-
 <div class="container">
   <header class="site-header">
   <h3 class="site-title">
@@ -124,6 +123,41 @@
   <iframe class="airtable-embed" src="https://airtable.com/embed/shrDmuBlfAPMKPxq1?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 </article>
+
+    <slide class="slide">
+
+<div class="main">
+  <div class="slides">
+    <img src="/assets/img/arctic-1.jpg" alt="">
+    <img src="/assets/img/arctic-2.jpg" alt="">
+    <img src="/assets/img/arctic-4.jpg" alt="">
+  </div>
+</div>
+
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="/js/jquery.slides.js"></script>
+<script>
+$(function(){
+$(".slides").slidesjs({
+  play: {
+    effect: "slide",
+      // [string] Can be either "slide" or "fade".
+    interval: 3000,
+      // [number] Time spent on each slide in milliseconds.
+    auto: true,
+      // [boolean] Start playing the slideshow on load.
+    swap: false,
+      // [boolean] show/hide stop and play buttons
+    pauseOnHover: false,
+      // [boolean] pause a playing slideshow on hover
+    restartDelay: 2500
+      // [number] restart delay on inactive slideshow
+  }
+});
+});
+</script>
+</slide>
+
 
   </div>
   <footer class="footer">
