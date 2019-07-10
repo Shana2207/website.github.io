@@ -81,11 +81,6 @@
       <a href="/contact.html" class="menu-link">Contact</a>
     
 
-    
-      <a href="https://www.facebook.com/devhouse.pe" class="menu-link" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-    
-      <a href="https://instagram.com/devhouse.pe" class="menu-link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-    
   </nav>
   <div class="dropdown">
     <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
@@ -116,44 +111,39 @@
   <div class="posts-wrapper">
     
 
-<article>
-  <a href="/servicios.html">
-    <div class="featured-posts" style="background-image:url(/assets/img/arctic-1.jpg)">
-      <h2><span>Nuestros Ambientes</span></h2>
-    </div>
-  </a>
-</article>
+<slide class="slide">
 
+<div class="main">
+  <div class="slides">
+    <img src="/assets/img/arctic-1.jpg" alt="">
+    <img src="/assets/img/arctic-2.jpg" alt="">
+    <img src="/assets/img/arctic-4.jpg" alt="">
+  </div>
+</div>
 
-
-<article>
-  <a href="/libros.html">
-    <div class="featured-posts" style="background-image:url(/assets/img/arctic-1.jpg)">
-      <h2><span>Nuestros libros</span></h2>
-    </div>
-  </a>
-</article>
-
-
-
-<article>
-  <a href="/juegos.html">
-    <div class="featured-posts" style="background-image:url(/assets/img/arctic-1.jpg)">
-      <h2><span>Nuestros Juegos</span></h2>
-    </div>
-  </a>
-</article>
-
-
-
-<article>
-  <a href="/carta.html">
-    <div class="featured-posts" style="background-image:url(/assets/img/arctic-1.jpg)">
-      <h2><span>Nuestra Carta</span></h2>
-    </div>
-  </a>
-</article>
-
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="/js/jquery.slides.js"></script>
+<script>
+$(function(){
+$(".slides").slidesjs({
+  play: {
+    effect: "slide",
+      // [string] Can be either "slide" or "fade".
+    interval: 3000,
+      // [number] Time spent on each slide in milliseconds.
+    auto: true,
+      // [boolean] Start playing the slideshow on load.
+    swap: false,
+      // [boolean] show/hide stop and play buttons
+    pauseOnHover: false,
+      // [boolean] pause a playing slideshow on hover
+    restartDelay: 2500
+      // [number] restart delay on inactive slideshow
+  }
+});
+});
+</script>
+</slide>
 
 
   </div>
