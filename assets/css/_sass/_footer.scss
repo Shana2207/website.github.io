@@ -11,6 +11,11 @@
   padding: 0px 10px 0px;
   text-decoration: none;
 }
+.separator {
+  margin-top: 2em;
+  border: none;
+  border-bottom: 2px solid #f00;
+}
 @media (max-width: $container-width) {
   .footer {
     background: white;

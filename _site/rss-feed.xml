@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Videojuegos</title>
+				
+				
+					<description>&lt;iframe class=&quot;airtable-embed&quot; src=&quot;https://airtable.com/embed/shrDmuBlfAPMKPxq1?backgroundColor=cyan&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;533&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;/iframe&gt;
+</description>
+				
+				<pubDate>Mon, 08 Jul 2019 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/videojuegos.html</link>
+				<guid isPermaLink="true">http://localhost:4000/videojuegos.html</guid>
+			</item>
+		
+			<item>
 				<title>Servicios</title>
 				
 				
@@ -40,6 +52,18 @@
 				<pubDate>Mon, 08 Jul 2019 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/juegos.html</link>
 				<guid isPermaLink="true">http://localhost:4000/juegos.html</guid>
+			</item>
+		
+			<item>
+				<title>Eventos</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Mon, 08 Jul 2019 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/eventos.html</link>
+				<guid isPermaLink="true">http://localhost:4000/eventos.html</guid>
 			</item>
 		
 			<item>
