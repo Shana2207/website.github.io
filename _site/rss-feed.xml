@@ -70,40 +70,7 @@
 				<title>Carta</title>
 				
 				
-					<description>&lt;slide class=&quot;slide&quot;&gt;
-
-&lt;div class=&quot;main&quot;&gt;
-  &lt;div class=&quot;slides&quot;&gt;
-    &lt;img src=&quot;/assets/img/arctic-1.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/assets/img/arctic-2.jpg&quot; alt=&quot;&quot; /&gt;
-    &lt;img src=&quot;/assets/img/arctic-4.jpg&quot; alt=&quot;&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script src=&quot;http://code.jquery.com/jquery-1.9.1.min.js&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;/js/jquery.slides.js&quot;&gt;&lt;/script&gt;
-&lt;script&gt;
-$(function(){
-$(&quot;.slides&quot;).slidesjs({
-  play: {
-    effect: &quot;slide&quot;,
-      // [string] Can be either &quot;slide&quot; or &quot;fade&quot;.
-    interval: 3000,
-      // [number] Time spent on each slide in milliseconds.
-    auto: true,
-      // [boolean] Start playing the slideshow on load.
-    swap: false,
-      // [boolean] show/hide stop and play buttons
-    pauseOnHover: false,
-      // [boolean] pause a playing slideshow on hover
-    restartDelay: 2500
-      // [number] restart delay on inactive slideshow
-  }
-});
-});
-&lt;/script&gt;
-&lt;/slide&gt;
-
+					<description>&lt;iframe class=&quot;airtable-embed&quot; src=&quot;https://airtable.com/embed/shrQEXQ7EjPrXxVdg?backgroundColor=cyan&amp;amp;viewControls=on&quot; frameborder=&quot;0&quot; onmousewheel=&quot;&quot; width=&quot;100%&quot; height=&quot;533&quot; style=&quot;background: transparent; border: 1px solid #ccc;&quot;&gt;&lt;/iframe&gt;
 </description>
 				
 				<pubDate>Mon, 08 Jul 2019 00:00:00 -0500</pubDate>
