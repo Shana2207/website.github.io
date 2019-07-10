@@ -11,8 +11,8 @@ menu:
 - {name: 'Juegos', folder: 'pages', file: 'juegos.html'}
 - {name: 'Servicios', folder: 'pages', file: 'servicios.html'}
 - {name: 'Libros', folder: 'pages', file: 'libros.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Videojuegos', folder: 'pages', file: 'videojuegos.html'}
+- {name: 'Eventos', folder: 'pages', file: 'eventos.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -21,8 +21,5 @@ social:
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy...'
 
 post_date_prefix: 'Written on'
