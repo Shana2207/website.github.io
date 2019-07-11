@@ -2,14 +2,10 @@
 layout: default
 title: Home
 ---
+<img src="/assets/img/arctic-2.jpg" alt="">
+
+{% include slides.html %}
 
 {% for post in paginator.posts %}
-<article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-      {% include slides.html %}
-    </div>
-  </a>
-</article>
+<img src="/assets/img/arctic-2.jpg" alt="">
 {% endfor %}
