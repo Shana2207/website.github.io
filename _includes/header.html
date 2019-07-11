@@ -7,14 +7,17 @@
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
+
+    <div class="dropdown">
+      <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+      <div class="dropdown-content">
+        {% for item in site.data.settings.menu %}
+          <a href="{{ site.github.url }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+        {% endfor %}
+      </div>
+    </div>
+
   </nav>
 
-  <div class="dropdown">
-    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
-    <div class="dropdown-content">
-      {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %}
-    </div>
-  </div>
+
 </header>
