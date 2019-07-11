@@ -35,7 +35,10 @@
 .menu-link {
   padding: 5px 10px;
 }
-
+.separator2 {
+  margin-top: 2em;
+  border: none;
+  border-bottom: 2px solid #00B8F4; }
 /*
   Responsiveness with a dropdown menu
 */
@@ -56,7 +59,7 @@
     padding-right: 0.25rem;
   }
   .dropbtn {
-      background-color: white;
+      background-color: #00B8F4;
       color: black;
       padding: 16px;
       margin-top: 4px;
