@@ -2,10 +2,18 @@
 layout: default
 title: Home
 ---
-<img src="/assets/img/arctic-2.jpg" alt="">
 
-{% include slides.html %}
+
+<article>
+  <a href="">
+    <div class="featured-posts" style="{% include slides.html %}">
+      <h2><span>welcome</span></h2>
+    </div>
+  </a>
+</article>
+
+
+
 
 {% for post in paginator.posts %}
-<img src="/assets/img/arctic-2.jpg" alt="">
 {% endfor %}
