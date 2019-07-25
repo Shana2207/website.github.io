@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>devHouse</title>
+		<title>&lt;img src=&quot;assets/img/logo.png&quot; alt=&quot;&quot; style=&quot;width=&quot;50&quot;; height=&quot;50&quot;;&quot;&gt;</title>
 		<description>Welcome</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />

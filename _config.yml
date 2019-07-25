@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "devHouse"
+title: <img src="assets/img/logo.png" alt="" style="width="50"; height="50";">
 description: "Welcome"
 author: ""
 
