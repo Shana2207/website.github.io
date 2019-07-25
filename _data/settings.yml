@@ -7,12 +7,11 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Carta', folder: 'pages', file: 'carta.html'}
-- {name: 'Juegos', folder: 'pages', file: 'juegos.html'}
-- {name: 'Servicios', folder: 'pages', file: 'servicios.html'}
-- {name: 'Libros', folder: 'pages', file: 'libros.html'}
-- {name: 'Videojuegos', folder: 'pages', file: 'videojuegos.html'}
-- {name: 'Eventos', folder: 'pages', file: 'eventos.html'}
+- {name: 'Carta', folder: 'pages', file: 'carta'}
+- {name: 'Juegos', folder: 'pages', file: 'juegos'}
+- {name: 'Videojuegos', folder: 'pages', file: 'videojuegos'}
+- {name: 'Servicios', folder: 'pages', file: 'servicios'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
