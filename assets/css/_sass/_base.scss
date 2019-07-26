@@ -17,7 +17,7 @@ dl, dd, ol, ul, figure {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
-  line-height: 1.25;
+  line-height: 0.25;
   text-rendering: optimizeLegibility;
 }
 
@@ -27,7 +27,8 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 5rem;
-  color: white;}
+  color: white;
+  line-height: 7.5}
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
@@ -50,7 +51,7 @@ body img {
 
 p {
   display: block;
-  margin-top: 1em;
+  margin-top: -1em;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
