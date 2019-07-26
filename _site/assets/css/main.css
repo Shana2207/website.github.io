@@ -80,7 +80,7 @@ dd {
   Links
 */
 a {
-  color: black;
+  color: #f00;
   text-decoration: none; }
 
 /*
@@ -353,7 +353,7 @@ th, td {
 .separator2 {
   margin-top: 3.5em;
   border: none;
-  border-bottom: 2px solid #00B8F4; }
+  border-bottom: 3.5px solid #00B8F4; }
 
 /*
   Responsiveness with a dropdown menu
