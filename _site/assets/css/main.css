@@ -17,7 +17,7 @@ dl, dd, ol, ul, figure {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
-  line-height: 1.25;
+  line-height: 0.25;
   text-rendering: optimizeLegibility; }
 
 h1 {
@@ -26,7 +26,8 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 5rem;
-  color: white; }
+  color: white;
+  line-height: 7.5;}
 
 h3 {
   margin-top: 1.5rem;
@@ -48,7 +49,7 @@ body img {
 
 p {
   display: block;
-  margin-top: 1em;
+  margin-top: -1em;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
@@ -140,7 +141,8 @@ th, td {
     display: block;
     width: 95vw; } }
 .featured-posts {
-  height: 400px;
+  height: 615px;
+  width: 1100px;
   margin: -10px -10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -149,6 +151,12 @@ th, td {
   text-align: center; }
 
 .featured-posts h2 {
+  height: 615px;
+  width: 1100px;
+  margin: -10px -10px 10px;
+  background-color: rgba(0, 0, 0, 0.3); }
+
+.fondo {
   bottom: 0;
   margin: 0;
   padding: 10px;
