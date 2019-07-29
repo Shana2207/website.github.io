@@ -1,39 +1,35 @@
 .featured-posts {
   height: 615px;
-  width: 1100px;
   margin: -10px -10px 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  text-align: center;
-}
+   }
 
 .featured-posts h2 {
   height: 615px;
   width: 1100px;
   margin: -10px -10px 10px;
-	background-color: rgba(0,0,0,0.3);
-  }
+  background-color: rgba(0, 0, 0, 0.3);
+text-align: center;}
 
 .fondo {
-  bottom: 0;
-  margin: 0;
   padding: 10px;
-  position: center;
+  position: relative;
   display: inline-block;
-  letter-spacing: -1px;
-}
+  letter-spacing: -1px; }
 
 .featured-posts h2 span {
-   display: inline-block;
-   color: white;
-   font: bold 24px/45px Helvetica, Sans-Serif;
-   letter-spacing: -1px;
-   background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.7);
-   padding: 10px;
-}
+  display: inline-block;
+  color: white;
+  font: bold 50px/45px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: black;
+    /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px; }
+
 .featured-posts span a {
   color: white;
 }
