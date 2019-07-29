@@ -17,7 +17,7 @@ dl, dd, ol, ul, figure {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
-  line-height: 1.25;
+  line-height: 0.25;
   text-rendering: optimizeLegibility; }
 
 h1 {
@@ -49,7 +49,7 @@ body img {
 
 p {
   display: block;
-  margin-top: 1em;
+  margin-top: -1em;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
@@ -146,16 +146,18 @@ th, td {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative; }
+  position: relative;
+  text-align: center; }
 
 .featured-posts h2 {
   height: 615px;
   width: 1100px;
   margin: -10px -10px 10px;
-  background-color: rgba(0, 0, 0, 0.3);
-  text-align: center; }
+  background-color: rgba(0, 0, 0, 0.3); }
 
 .fondo {
+  bottom: 0;
+  margin: 0;
   padding: 10px;
   position: relative;
   display: inline-block;
@@ -164,7 +166,7 @@ th, td {
 .featured-posts h2 span {
   display: inline-block;
   color: white;
-  font: bold 50px/45px Helvetica, Sans-Serif;
+  font: bold 24px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
   background: black;
   /* fallback color */
@@ -232,6 +234,18 @@ th, td {
   margin: 5px auto 25px;
   display: block;
   max-width: 600px; }
+
+.slides {
+  align: middle;
+  margin: 5px auto 25px;
+  display: block;
+  max-width: 95vw; }
+
+.slides img {
+  align: middle;
+  margin: 5px auto 25px;
+  display: block;
+  max-width: 95vw; }
 
 @media (max-width: 1100px) {
   .page-content {
@@ -344,6 +358,11 @@ th, td {
 .menu-link {
   padding: 5px 10px; }
 
+.separator2 {
+  margin-top: 3.5em;
+  border: none;
+  border-bottom: 3.5px solid #00B8F4; }
+
 /*
   Responsiveness with a dropdown menu
 */
@@ -361,7 +380,6 @@ th, td {
     padding-right: 0.25rem; }
 
   .dropbtn {
-    background-color: white;
     color: black;
     padding: 16px;
     margin-top: 4px;
@@ -409,9 +427,9 @@ th, td {
   text-decoration: none; }
 
 .separator {
-  margin-top: 0em;
+  margin-top: 4em;
   border: none;
-  border-bottom: 3.5px solid #f00; }
+  border-bottom: 2px solid #f00; }
 
 @media (max-width: 1100px) {
   .footer {
